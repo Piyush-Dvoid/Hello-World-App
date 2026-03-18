@@ -1,2 +1,38 @@
-# Hello-World-App
-Making my first Android App in this I use the Android studio for code and I use Kotlin and Java in this project this is a frontend of my app after run it shows hello and in this app it also shows current time and battery of your device on which the app is used . After that  I am also working on the backend of this app.
+# 📱 Hello-World-App
+
+Welcome to my first Android application! This project marks the beginning of my journey into mobile development, focusing on UI/UX and hardware integration.
+
+---
+
+## 📝 Description
+This is a sleek frontend application built using **Android Studio**. The app serves as a dynamic "Hello World" project that goes beyond static text by interacting with your device's system data.
+
+### ✨ Key Features
+* **Dynamic Greeting:** Displays a "Hello" message upon launching.
+* **Real-time Clock:** Shows the current system time accurately.
+* **Battery Monitor:** Displays the real-time battery percentage of the device.
+* **Hybrid Codebase:** Built using a mix of modern and industry-standard languages.
+
+---
+
+## 🛠 Tech Stack & Languages
+* **Kotlin** 🚀 (Primary Logic)
+* **Java** ☕ (Supporting Logic)
+* **XML** 🎨 (UI/Layout Design)
+* **Android SDK** 🤖
+
+---
+
+## 🚀 How to Download & Run
+
+Follow these steps to get a copy of the project up and running on your local machine using **Android Studio**.
+
+### 1. Prerequisites
+Ensure you have the latest version of [Android Studio](https://developer.android.com/studio) installed.
+
+### 2. Clone the Repository
+Open your terminal or command prompt and run:
+```bash
+git clone [https://github.com/YOUR_USERNAME/Hello-World-App.git](https://github.com/YOUR_USERNAME/Hello-World-App.git)
+
+
