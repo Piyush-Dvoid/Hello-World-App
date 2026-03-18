@@ -4,6 +4,12 @@ Welcome to my first Android application! This project marks the beginning of my 
 
 ---
 
+<p align="center">
+  <img src="app-demo.gif" width="300" alt="App Demo Animation">
+  <br>
+  <i>Live preview of the Hello World app showing real-time clock and battery status.</i>
+</p>
+
 ## 📝 Description
 This is a sleek frontend application built using **Android Studio**. The app serves as a dynamic "Hello World" project that goes beyond static text by interacting with your device's system data.
 
@@ -34,5 +40,7 @@ Ensure you have the latest version of [Android Studio](https://developer.android
 Open your terminal or command prompt and run:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/Hello-World-App.git](https://github.com/YOUR_USERNAME/Hello-World-App.git)
+
+### 🦾 **Screenshots**
 
 
