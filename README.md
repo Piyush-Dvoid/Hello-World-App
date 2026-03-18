@@ -41,6 +41,5 @@ Open your terminal or command prompt and run:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/Hello-World-App.git](https://github.com/YOUR_USERNAME/Hello-World-App.git)
 
-### 🦾 **Screenshots**
 
 
